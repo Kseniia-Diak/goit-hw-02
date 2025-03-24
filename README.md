@@ -85,7 +85,6 @@ This repository contains the second homework assignment for the GoIT FullStack D
 
 ## Author
 
-**Kseniia Diak**
+**Kseniia Diak** [GitHub Profile](https://github.com/Kseniia-Diak/)
 
-[GitHub Profile](https://github.com/Kseniia-Diak/)
 This project was created as part of the **GoIT FullStack Development Course**
