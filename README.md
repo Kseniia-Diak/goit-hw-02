@@ -1,5 +1,3 @@
-# WebStudio - Homework #2
-
 ## Project Overview
 
 This repository contains the second homework assignment for the GoIT FullStack Development Course. The goal of this project is to create the layout and styling for the Portfolio page according to the given design.
@@ -86,5 +84,4 @@ This repository contains the second homework assignment for the GoIT FullStack D
 ## Author
 
 **Kseniia Diak** [GitHub Profile](https://github.com/Kseniia-Diak/)
-
 This project was created as part of the **GoIT FullStack Development Course**
