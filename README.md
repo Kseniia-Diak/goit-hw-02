@@ -1,17 +1,6 @@
 ## Project Overview
 
-This repository contains the second homework assignment for the GoIT FullStack Development Course. The goal of this project is to create the layout and styling for the Portfolio page according to the given design.
-
-## Project Setup
-
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/goit-hw-02.git
-   ```
-2. Copy files from the previous project into this repository.
-3. Implement the HTML structure and CSS styling based on the design.
-4. Optimize all images using [Squoosh](https://squoosh.app/).
-5. Configure GitHub Pages and add the live page link to the repository header.
+This project was created as part of the **GoIT FullStack Development Course**. The goal of this project is to create the layout and styling for the Portfolio page according to the given design.
 
 ## Project Structure
 
@@ -84,4 +73,3 @@ This repository contains the second homework assignment for the GoIT FullStack D
 ## Author
 
 **Kseniia Diak** [GitHub Profile](https://github.com/Kseniia-Diak/)
-This project was created as part of the **GoIT FullStack Development Course**
